@@ -44,6 +44,22 @@
         "name": "City Event Helper",
         "label": "Function,Usability",
         "url": "https://github.com/ilhamfadheel/CityEventHelper"
+	},{
+        "name": "Reverse Crystals",
+        "label": "Item,Usability,Integrated,Content",
+        "url": "https://github.com/ilhamfadheel/ReverseCrystals"
+	},{
+        "name": "3 Color Souls",
+        "label": "Elixir,Building,Function,Usability,Integrated",
+        "url": "https://github.com/ilhamfadheel/3ColorSouls"
+	},{
+        "name": "Call The Merchant",
+        "label": "Function,Usability",
+        "url": "https://github.com/ilhamfadheel/CallTheMerchant"
+	},{
+        "name": "Divine Ascension",
+        "label": "Esoterica,Elixir,Item,Integrated,Content",
+        "url": "https://github.com/ilhamfadheel/DivineAscension"
 	}
 ]
 
